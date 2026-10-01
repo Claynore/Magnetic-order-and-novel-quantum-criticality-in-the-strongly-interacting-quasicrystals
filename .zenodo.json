@@ -1,0 +1,34 @@
+{
+  "title": "Data associated with \"Magnetic order and novel quantum criticality in the strongly interacting quasicrystals\"",
+  "description": "Numerical data supporting the results presented in the main text and Supplemental Material of the manuscript \"Magnetic order and novel quantum criticality in the strongly interacting quasicrystals\". The data are organized into the main_data and SM_data directories. Additional details concerning the data format and Binder-ratio conventions are provided in the README file.",
+  "creators": [
+    {
+      "name": "Zhang, Cong",
+      "affiliation": "Beijing National Laboratory for Condensed Matter Physics & Institute of Physics, Chinese Academy of Sciences, Beijing 100190, China; University of Chinese Academy of Sciences, Beijing 100049, China"
+    },
+    {
+      "name": "Yu, Yin-Kai",
+      "affiliation": "Beijing National Laboratory for Condensed Matter Physics & Institute of Physics, Chinese Academy of Sciences, Beijing 100190, China; University of Chinese Academy of Sciences, Beijing 100049, China"
+    },
+    {
+      "name": "Shi, Shao-Hang",
+      "affiliation": "Beijing National Laboratory for Condensed Matter Physics & Institute of Physics, Chinese Academy of Sciences, Beijing 100190, China; University of Chinese Academy of Sciences, Beijing 100049, China"
+    },
+    {
+      "name": "Li, Zi-Xiang",
+      "affiliation": "Beijing National Laboratory for Condensed Matter Physics & Institute of Physics, Chinese Academy of Sciences, Beijing 100190, China; University of Chinese Academy of Sciences, Beijing 100049, China"
+    }
+  ],
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "upload_type": "dataset",
+  "language": "eng",
+  "keywords": [
+    "quasicrystals",
+    "quantum criticality",
+    "magnetic order",
+    "strongly correlated systems",
+    "quantum Monte Carlo",
+    "finite-size scaling"
+  ]
+}
